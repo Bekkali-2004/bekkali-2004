@@ -41,23 +41,13 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dascofire&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats).
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?dascofire=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?dascofire=anuraghazra&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?dascofire=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?dascofire=anuraghazra&layout=compact)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?dascofire=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?dascofire=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?dascofire=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?dascofire=anuraghazra&hide_progress=true)
 
