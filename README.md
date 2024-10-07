@@ -21,3 +21,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dascofire&show_icons=true&locale=en" alt="dascofire" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dascofire&" alt="dascofire" /></p>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dascofire)](https://github.com/anuraghazra/github-readme-stats)
