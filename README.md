@@ -42,17 +42,3 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
 
-<a>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
-</a>
-<a>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
-</a>
-
-<a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
-
