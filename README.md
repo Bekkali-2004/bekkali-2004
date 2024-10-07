@@ -22,4 +22,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dascofire&" alt="dascofire" /></p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dascofire)](https://github.com/anuraghazra/github-readme-stats)
+	![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
