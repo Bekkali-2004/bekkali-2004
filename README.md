@@ -1,4 +1,3 @@
-#Bekkali 
 ![Mesa GIF Animation](https://cdnb.artstation.com/p/assets/images/images/036/125/405/original/igor-freitas-mesa.gif?1616779562)
 
 <h1 align="center">Hi 👋, I'm MOHAMED ELBAKKALI EL ISSAOUI</h1>
