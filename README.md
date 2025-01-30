@@ -31,9 +31,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bekkali-2004&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-<img src="https://raw.githubusercontent.com/bekkali-2004/bekkali-2004/output/snake.svg" alt="Snake animation" />(https://user-images.githubusercontent.com/86793725/136984854-324ec3fe-88bb-4aba-9458-b327dd33dcac.gif)
-
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Bekkali-2004&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
