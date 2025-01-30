@@ -44,3 +44,6 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
 
+<img src="https://raw.githubusercontent.com/bekkali-2004/bekkali-2004/output/snake.svg" alt="Snake animation" />
+
+###
